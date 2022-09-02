@@ -20,7 +20,7 @@ def hitung():
     print('')
      
     pilih = input("Masukkan pilihan(1/2/3/4): ")
-    # Meminta input dari user
+    # Meminta input dari user ..
     nilai1 = int(input("Masukkan bilangan pertama: "))
     nilai2 = int(input("Masukkan bilangan kedua: "))
     if pilih == '1':
